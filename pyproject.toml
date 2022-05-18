@@ -11,6 +11,8 @@ SQLAlchemy = "^1.4.36"
 fastapi = "^0.78.0"
 PyMySQL = "^1.0.2"
 cryptograpy = "^0.0.0"
+python-multipart = "^0.0.5"
+aiofiles = "^0.8.0"
 
 [tool.poetry.dev-dependencies]
 httpie = "^3.2.1"

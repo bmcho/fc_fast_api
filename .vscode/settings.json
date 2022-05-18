@@ -5,11 +5,11 @@
   "python.formatting.provider": "black",
   "python.linting.flake8Args": [
     "--max-line-length=119",
-    "--ignore=F401,E402"
+    "--ignore=F401,E402,E203"
   ],
   "python.formatting.blackArgs": [
     "--line-length",
-    "119"
+    "110"
   ],
   "editor.codeActionsOnSave": {
     "source.organizeImports": true,
